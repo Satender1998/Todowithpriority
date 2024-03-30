@@ -2,11 +2,7 @@
 
 This is a task management application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to manage their tasks with features like creating, updating, deleting, prioritizing, and categorizing.
 
-## Deployed Link
 
-## Website will take sometime to load
-
-[Visit Sale&Rent](https://saleandrent.onrender.com)
 
 ## Table of Contents
 
@@ -37,7 +33,7 @@ This is a task management application built using the MERN stack (MongoDB, Expre
         - 4.3.5. [Connect to Your Cluster](#connect-to-your-cluster)
 5. [Summary](#summary)
     - 5.1. [Features](#features)
-    
+
 ## Technologies Used
 
 ### Frontend
